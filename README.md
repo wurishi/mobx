@@ -1,1 +1,1 @@
-# mobx
+[link](./note.md)
